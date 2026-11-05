@@ -1,0 +1,6 @@
+{
+  "name": "Rasoi & Vindu - Traditional Recipes",
+  "description": "Traditional Indian recipe mobile & web app in English, Hindi, and Telugu featuring voice commands, cooking timers, ingredient substitution, meal planner, shopping list generator, and Flutter codebase exporter for KHIT Guntur group project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
